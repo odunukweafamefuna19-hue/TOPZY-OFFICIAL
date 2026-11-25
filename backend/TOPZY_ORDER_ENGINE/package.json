@@ -1,0 +1,13 @@
+{
+  "name": "topzy-order-engine",
+  "version": "1.0.0",
+  "description": "Order processing module for the TOPZY platform",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
