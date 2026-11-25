@@ -1,0 +1,9 @@
+{
+  "name": "topzy-supplier-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Central multi-provider supplier integration module for TOPZY",
+  "main": "index.js",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" }
+}
